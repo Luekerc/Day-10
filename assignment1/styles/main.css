@@ -1,0 +1,30 @@
+body{
+	margin: 1em 0 0 2em;
+	/*font-size: 1.2em;*/
+	letter-spacing: 1px;
+	font-family: sans-serif;
+	line-height: 1.3em;
+}
+.headline{
+	font-size: 2em;
+	font-weight: bold;
+}
+.function-junction{
+	margin: 2em 0 0 0;
+}
+.note{
+	color: red;
+}
+.object{
+	margin: 1em 0 1em 1em;
+}
+.properties{
+	margin-left: 1em;
+}
+button{
+	margin-bottom: 1em;
+}
+.out-puts{
+	margin-left: 1em;
+	color: red;
+}
